@@ -11240,7 +11240,8 @@ p {
     position: relative;
     padding: 3rem;
     margin: 0.5rem;
-    max-width: 713px;
+    margin-left: 5rem;
+    max-width: 760px;
 }
 
 .cta .cta-inner:before {
@@ -11369,4 +11370,17 @@ p {
 
 .litte-text {
     font-size: medium !important;
+}
+
+article,
+aside,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+    display: block;
 }
