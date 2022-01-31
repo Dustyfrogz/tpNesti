@@ -11225,6 +11225,8 @@ p {
         margin-top: -5rem;
         position: relative;
         z-index: 1;
+        max-width: 1100px;
+        margin-left: 100px;
     }
 }
 
@@ -11359,4 +11361,12 @@ p {
 #link-blue:hover {
     color: #0056b3 !important;
     text-decoration: underline !important;
+}
+
+#litle-item {
+    max-width: 825px;
+}
+
+.litte-text {
+    font-size: medium !important;
 }
