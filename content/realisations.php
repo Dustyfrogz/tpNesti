@@ -6,7 +6,7 @@
   <section class="page-section cta">
       <div class="container">
         <div class="row">
-          <div class="col-xl-9 mx-auto">
+          <div class="col-xl-9 ml-auto">
             <div class="cta-inner text-center rounded bg-light">
               <h2 class="section-heading mb-5">
                 <span class="section-heading-upper">Coming Soon</span>
@@ -33,7 +33,7 @@
 <?php foreach($array as $key => $value): ?>
     <li class="list-unstyled-item list-hours-item d-flex justify-content-between"> 
     <?= $value[0] ?> <?=$value[1]?>
-    <a class="ml-auto" href=" <?= $value[2] ?> "> portefolio</a>
+    <a id="link-blue" class="ml-auto" href=" <?= $value[2] ?> "> Portfolio</a>
     </li>
 <?php endforeach  ?>
     
@@ -61,7 +61,7 @@
 
     <section class="page-section about-heading">
       <div class="container">
-        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="img/delai.jpg" alt="">
+        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0 ms-5" src="assets/img/delai.jpg" alt="">
         <div class="about-heading-content">
           <div class="row">
             <div class="col-xl-9 col-lg-10 mx-auto">

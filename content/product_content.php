@@ -1,4 +1,6 @@
-<section class="page-section">
+
+
+  <section class="page-section">
     <div class="container">
       <div class="product-item">
         <div class="product-item-title d-flex">
@@ -10,7 +12,7 @@
           </div>
         </div>
         <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/products-01.jpg" alt="">
-        <div class="product-item-description d-flex mr-auto">
+        <div class="product-item-description d-flex mr-auto rounded">
           <div class="bg-faded p-5 rounded">
             <p class="mb-0">Nous sommes fier de nos produits. Du chocolat aux produits crémiers en passant par les pépites de décoration, tout est disponible dans nos boutiques.</p>
           </div>
@@ -18,8 +20,8 @@
       </div>
     </div>
   </section>
-  <!-- Ustensiles de cuisine  --->
-<section class="page-section">
+<!-- Ustensiles de cuisine  --->
+  <section class="page-section">
     <div class="container">
       <div class="product-item">
         <div class="product-item-title d-flex">
@@ -31,7 +33,7 @@
           </div>
         </div>
         <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/products-02.jpg" alt="">
-        <div class="product-item-description d-flex ml-auto">
+        <div class="product-item-description d-flex rounded">
           <div class="bg-faded p-5 rounded">
             <p class="mb-0">Vous pouvez choisir de travailler
                dans les meilleurs conditions, 
@@ -55,7 +57,7 @@
           </div>
         </div>
         <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/products-03.jpg" alt="">
-        <div class="product-item-description d-flex mr-auto">
+        <div class="product-item-description d-inline-flex mr-auto rounded">
           <div class="bg-faded p-5 rounded">
             <p class="mb-0">Cherchez l'inspiration parmis la multitude
                de recettes testées et approuvées par nos colaborateurs</p>
