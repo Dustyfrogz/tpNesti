@@ -1,0 +1,9 @@
+body {
+    background-repeat: repeat-y;
+}
+
+@media(max-width:599px) {
+    .section-heading .section-heading-lower {
+        font-size: 2rem;
+    }
+}
